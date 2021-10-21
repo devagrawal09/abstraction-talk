@@ -1,4 +1,4 @@
-namespace ShopTwoServices {
+namespace ShopWithServices {
   class PaymentService {
     paypalApi: string;
 
